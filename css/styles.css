@@ -100,6 +100,8 @@ text-decoration: none;
     text-decoration: none;
 }
 
+
+
 .header-list {
     display: flex;
     margin-left: 76px;
@@ -348,9 +350,6 @@ margin-bottom: 8px;
     height: 40px;
 }
 
-
-
-
 .main-four-link-icon{
 width: 100%;
 height: 100%;
@@ -358,6 +357,7 @@ border-radius: 50%;
 background-color: var(--blue-color);
 display: flex;
 align-items: center;
+justify-content: center;
 }
 
 .main-four-link-icon:hover{
