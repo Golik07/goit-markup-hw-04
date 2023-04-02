@@ -681,7 +681,7 @@ img{
 
 .footer-link:hover,
 .footer-link:focus{
-    background-color: var(--brandblue-color);
+    background-color: var(--color-icon);
 }
 
 .footer-icon {}
